@@ -4,6 +4,7 @@ Para prática de lógica e diversão.
 
 
 Jogo simples e tradicional. O jogador escolhe a opção desejada e o computador aleatoriamente.
+
 ![image](https://user-images.githubusercontent.com/48987652/160919453-403e1d1c-bcbd-4c59-b786-6ae00427b24a.png)
 
 Calculo do IMC via TERMINAL.
