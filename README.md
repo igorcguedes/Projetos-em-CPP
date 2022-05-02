@@ -1,7 +1,4 @@
 # Projetos-em-CPP
-Desenvolvidos no tempo livre e pretendo implementar uma interface gráfica GTK4 em todos.
-Criados para prática de lógica.
-
 
 Jogo simples e tradicional. O jogador escolhe a opção desejada e o computador aleatoriamente.
 
